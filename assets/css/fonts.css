@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Fira+Sans);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic);
+
+@font-face {
+	font-weight: normal;
+	font-style: italic;
+	font-family: 'ArnoPro';
+	src:url('../fonts/ArnoPro-Italic.otf') format('opentype'),
+}
+@font-face {
+	font-family: 'MYRIADPROREGULAR';
+	src: url('../fonts/MYRIADPROREGULAR.eot');
+	src: local('MYRIADPROREGULAR'), url('../fonts//MYRIADPROREGULAR.woff') format('woff'), url('../fonts/MYRIADPROREGULAR.ttf') format('truetype');
+}
